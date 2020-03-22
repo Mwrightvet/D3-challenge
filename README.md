@@ -6,7 +6,7 @@ Using the D3 techniques taught in class, creating a scatter plot that represents
 This will be coded in the app.js file and will pull in the data from data.csv by using the d3.csv function.
 
 State abbreviations will be included in the circles.
-
+![4-scatter](Images/4-scatter.jpg)
 
 Create and situate your axes and labels to the left and bottom of the chart.
 
